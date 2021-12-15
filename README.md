@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amith Tony</h1>
 <h3 align="center">Maker | IoT | React</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amith1206" alt="amith1206" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amithtony" target="blank"><img src="https://img.shields.io/twitter/follow/amithtony?logo=twitter&style=for-the-badge" alt="amithtony" /></a> </p>
 
